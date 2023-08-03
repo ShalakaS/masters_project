@@ -1,0 +1,17 @@
+.container {
+    max-width: 780px;
+    margin: 0 auto;
+}
+
+.graphic-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: rgb(219, 221, 237);
+}
+
+img {
+    align-self: center;
+}
