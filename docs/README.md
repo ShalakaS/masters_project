@@ -1,6 +1,6 @@
 # Effects of a Clogged Judiciary in India, a Country with 50 Million Court Matters Pending
 
-This is my master's project towards completion of Master of Science (Data Journalism) from Columbia Journalism School. Find the front-end [here](https://github.io/masters_project)
+This is my master's project towards completion of Master of Science (Data Journalism) from Columbia Journalism School. Find the front-end [here](https://github.io/masters_project).
 
 ## What I Aimed to Accomplish
 The aim of this project was to bring to light the vast number of court matters, including trial-stage matters, that have remained unresolved for decades. 
