@@ -8,6 +8,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 .graphic-container {
@@ -26,8 +27,8 @@
 
 body {
     background-color: #eeecee;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
 
 h1 {
     font-family: 'Barlow Condensed', sans-serif;
@@ -54,6 +55,14 @@ p {
 
 span {
     color: #D94A3D;
+}
+
+.maha {
+    color: #D9626B;
+}
+
+.UP {
+    fill: #339966;
 }
 
 .img {
