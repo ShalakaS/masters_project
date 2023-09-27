@@ -57,11 +57,14 @@ The database I created provides a step further than the data available in public
 
 ## New Skills and Lessons Learned
 There are a few things that I learned in this project:
-* How to not panic and follow a schedule
-* Parallel processing
-* Creating graphics purely in Illustrator
-* Different ways of scraping aside from the traditional methods
-* AI can help debug code 
+* Time management and breaking a bigger task into smaller pieces
+* Parallel processing for web scraping
+* Creating custom graphics
+* Novel methods of web scraping
+* Utilising AI to debug code
 
 ## Future of This Project
-In the coming months I wish to scale the project in multiple directions.
+In the coming months I wish to scale the project in multiple directions: 
+* Include all states in the murder case scraper
+* Repeat the process for other types of crime
+* Merge data all types of crimes from all states in the country to make a comprehensive database
